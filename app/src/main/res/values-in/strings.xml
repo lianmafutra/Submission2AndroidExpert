@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <array name="data_photo">
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_dragon</item>
+    </array>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv">serial TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="app_name">My Application</string>
+    <string name="Description">Description</string>
+    <string name="indo">Indonesia</string>
+    <string name="eng">Inggris</string>
+    <string name="change_language_settings">Ganti bahasa</string>
+
+    <string-array name="movie_title">
+        <item>Avengers: Infinity War</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Bumblebee</item>
+        <item>Mortal Engines</item>
+        <item>The girl spider web</item>
+        <item>Glass</item>
+        <item>Aquaman</item>
+        <item>Deadpool</item>
+        <item>Creed II</item>
+        <item>How train your dragon</item>
+    </string-array>
+
+    <string-array name="movie_desc">
+
+        <item> Saat Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim dari penghinaan intergalaksi </item>
+        <item> Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Saat Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seluruh Spider-Verse diangkut ke dimensi ini. </item>
+        <item> Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka perang </item>
+        <item> Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom </item>
+        <item> Di Stockholm, Swedia, peretas Lisbeth Salander disewa oleh Frans Balder, seorang insinyur komputer, untuk mengambil sebuah program yang menurutnya terlalu berbahaya untuk ada. </item>
+        <item> serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan </item>
+        <item> Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan sisa lautan </item>
+        <item> Fred Savage yang diculik terpaksa menanggung rendisi Deadpool 2 PG-13 Deadpool 2 sebagai kisah Putri Pengantin perempuan yang penuh keajaiban, keajaiban nol </item>
+        <item> Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya. </item>
+        <item> Sebagai putra seorang pemimpin Viking pada puncak kedewasaan, pemalu Hiccup Horrendous Haddock III menghadapi ritus peralihan: ia harus membunuh naga untuk membuktikan keberanian prajuritnya. Tapi setelah menabrak naga yang ditakuti, dia menyadari </item>
+    </string-array>
+
+<string-array name="tv_desc">
+
+        <item> Saat Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim dari penghinaan intergalaksi </item>
+        <item> Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Saat Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seluruh Spider-Verse diangkut ke dimensi ini. </item>
+        <item> Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka perang </item>
+        <item> Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom </item>
+        <item> Di Stockholm, Swedia, peretas Lisbeth Salander disewa oleh Frans Balder, seorang insinyur komputer, untuk mengambil sebuah program yang menurutnya terlalu berbahaya untuk ada. </item>
+        <item> serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan </item>
+        <item> Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan sisa lautan </item>
+        <item> Fred Savage yang diculik terpaksa menanggung rendisi Deadpool 2 PG-13 Deadpool 2 sebagai kisah Putri Pengantin perempuan yang penuh keajaiban, keajaiban nol </item>
+        <item> Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya. </item>
+        <item> Sebagai putra seorang pemimpin Viking pada puncak kedewasaan, pemalu Hiccup Horrendous Haddock III menghadapi ritus peralihan: ia harus membunuh naga untuk membuktikan keberanian prajuritnya. Tapi setelah menabrak naga yang ditakuti, dia menyadari </item>
+    </string-array>
+
+    <string-array name="movie_date">
+        <item>April 25, 2018</item>
+        <item>Desember 6, 2018</item>
+        <item>Desember 15, 2018</item>
+        <item>Desember 15, 2018</item>
+        <item>Januari 16, 2019</item>
+        <item>Nopember 01, 2018</item>
+        <item>Mei 17, 2019</item>
+        <item>Oktober 19, 2017</item>
+        <item>Maret 10, 2019</item>
+        <item>Februari 11, 2018</item>
+    </string-array>
+
+
+    <string-array name="tv_date">
+        <item>September 12, 2019</item>
+        <item>Agustus 23, 2015</item>
+        <item>September 13, 2005</item>
+        <item>September 24, 2013</item>
+        <item>Oktober 5, 2011</item>
+        <item>September 22, 2014</item>
+        <item>Februari 15, 2007</item>
+        <item>September 13, 2019</item>
+        <item>Agustus 13, 1997</item>
+        <item>Oktober 10, 2012</item>
+    </string-array>
+</resources>
